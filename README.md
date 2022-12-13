@@ -36,5 +36,11 @@ This game is actually an academic project which is a part of the 01219114/012191
 
 `Board.py` : THe file for store the latest bingo board for all player in form of list.
 
+## Github URL
+[NewOsakA - Reversal Bingo Battle](https://github.com/NewOsakA/Reversal-Bingo-Battle)
+
+
+
+
 
 
